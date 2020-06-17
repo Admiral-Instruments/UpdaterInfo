@@ -3,7 +3,7 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "2020.06.06",
+      "latest-version": "2020.06.05",
 	  "download-fileName": "Squidstat User Interface.exe",
       "download-url": "https://dl.dropboxusercontent.com/s/7ejcpjnmwzbb363/Squidstat%20User%20Interface%2006_05_2020.exe?dl=0",
        "changelog": "1. Patch notes included under more options tab.<br>
@@ -15,7 +15,7 @@
     },
 	"windows64": {
       "open-url": "",
-      "latest-version": "2020.06.06",
+      "latest-version": "2020.06.05",
 	  "download-fileName": "Squidstat User Interface.exe",
       "download-url": "https://dl.dropboxusercontent.com/s/7ejcpjnmwzbb363/Squidstat%20User%20Interface%2006_05_2020.exe?dl=0",
        "changelog": "1. Patch notes included under more options tab.<br>
@@ -39,7 +39,7 @@
     },
     "osx": {
       "open-url": "",
-      "latest-version": "2020.06.06",
+      "latest-version": "2020.06.05",
 	  "download-fileName": "Squidstat User Interface.dmg",
       "download-url": "https://dl.dropboxusercontent.com/s/fixtvhlp1uxkbr8/Squidstat%20User%20Interface%20v2.06.05.2020%20Beta.dmg?dl=0",
       "changelog": "1. Patch notes included under more options tab.<br>
@@ -51,7 +51,7 @@
     },
     "linux": {
       "open-url": "",
-      "latest-version": "2020.06.06",
+      "latest-version": "2020.06.05",
 	  "download-fileName": "Squidstat User Interface.run",
       "download-url": "https://dl.dropboxusercontent.com/s/ollbmt62ypqslue/Squidstat_User_Interface_06_05_2020.run?dl=0",
             "changelog": "1. Patch notes included under more options tab.<br>

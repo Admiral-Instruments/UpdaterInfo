@@ -1,8 +1,9 @@
 {
 	"developer-mode": false,
 	"updates": {
-		"website":"https://www.admiralinstruments.com/software",
-		"title": "<center><h3>Software Update Released<br>Squidstat User Interface v2.06.05.2020</h3></center>",
+        "website":"https://www.admiralinstruments.com/software",
+        "update-prompt": "Would you like to install the update now?",
+		"title": "<center><h3>Software Update Available<br>Squidstat User Interface v2.06.05.2020</h3></center>",
 		"changelog": "1. Patch notes included under more options tab.<br>2. Substantial improvements made to pulse experiments.<br>3. Charge Discharge experiments have new plotting behavior and data keeping behavior.<br>4. Firmware changes increase precision and accuracy for all experiments.<br>5. Other minor bugs fixes.",
 		"windows64": {
 			"latest-version": "2020.06.06",

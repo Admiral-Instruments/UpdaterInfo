@@ -6,28 +6,28 @@
 		"title": "<center><h3>Software Update Available<br>Squidstat User Interface v2.06.05.2020</h3></center>",
 		"changelog": "1. Patch notes included under more options tab.<br>2. Substantial improvements made to pulse experiments.<br>3. Charge Discharge experiments have new plotting behavior and data keeping behavior.<br>4. Firmware changes increase precision and accuracy for all experiments.<br>5. Other minor bugs fixes.",
 		"windows64": {
-			"latest-version": "2020.06.06",
+			"latest-version": "2020.06.05",
 			"mandatory":false,
 			"open-url": "",
 			"download-fileName": "Squidstat User Interface.exe",
 			"download-url": "https://dl.dropboxusercontent.com/s/7ejcpjnmwzbb363/Squidstat%20User%20Interface%2006_05_2020.exe?dl=0"
 		},
 		"windows32": {
-			"latest-version": "2020.06.06",
+			"latest-version": "2020.06.05",
 			"mandatory":false,
 			"open-url": "",
 			"download-fileName": "Squidstat User Interface x86.exe",
 			"download-url": "https://dl.dropboxusercontent.com/s/hhtog80fovq2vbe/Squidstat%20User%20Interface%2011_26_2019.exe?dl=0"
 		},
 		"osx": {
-			"latest-version": "2020.06.06",
+			"latest-version": "2020.06.05",
 			"mandatory":false,
 			"open-url": "",
 			"download-fileName": "Squidstat User Interface.dmg",
 			"download-url": "https://dl.dropboxusercontent.com/s/fixtvhlp1uxkbr8/Squidstat%20User%20Interface%20v2.06.05.2020%20Beta.dmg?dl=0"
 		},
 		"linux": {
-			"latest-version": "2020.06.06",
+			"latest-version": "2020.06.05",
 			"mandatory":false,
 			"open-url": "",
 			"download-fileName": "Squidstat User Interface.run",

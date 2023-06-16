@@ -1,37 +1,71 @@
 {
     "developer-mode": false,
     "updates": {
+        "window-title": "Squidstat User Interface Updater",
         "website": "https://www.admiralinstruments.com/software",
-        "update-prompt": "Would you like to install the update now?",
-        "title": "<center><h3>Software Update Available<br>Squidstat User Interface v2.11.19.2020</h3></center>",
-        "changelog": "1. Improvements made to the View Data tab to facilitate larger data sets with multiple channels<br>2. Channel Status Tab revamped into a Multichannel Control Tab.<br>3. Multi device RRDE added to Prebuilt experiments.<br>4. Battery Capacity added to Prebuilt and Custom experiments<hr><b>A full list of changes is available in the More Options tab within the Squidstat User Interface.",
+        "title": "<center><h3>Software Update Available<br>Squidstat User Interface v2.06.15.2023</h3></center>",
+        "update-prompt": "A new version of the Squidstat User Interface is available.",
+        "changelog-title": "<b>Notable changes since previous release</b>",
+        "changelog": "This version includes multiple new features and several bug fixes. A complete list of changes is available to review in the Release Notes section of the More Options menu within the new software.<br><br><b>IMPORTANT: This software update only supports Squidstats with serial numbers above 1100. Do not download this update if you are using any Squidstats with serial numbers below 1100. Instead, please visit our website to access a software version that is compatible for serial numbers below 1100.</b>",
+        "website-link-text": "This update can also be downloaded from our website.",
+
+        "button-text": ["Install Now", "Postpone"],
+        "button-action": [1, 2],
+
+        "postpone-text": "Remind me later",
+        "postpone-combo-text": ["next restart", "in 1 day", "in 5 days", "next update"],
+        "postpone-combo-action": [-1, 86400, 432000, -2],
+
+        "mandatory-text": "<p style=\"color:red\">A new version with critical fixes has been released and must<br> be installed.<br>Postponing this update will close the SUI.</p>",
+
+        "downloader-menu": {
+            "downloader-title": "<h3>The update has downloaded successfully</h3>",
+            "downloader-text": "Click 'Install' to close the SUI and proceed with the installation.",
+            "mandatory-dl-text": "<b>This update contains critical fixes to the software and must be installed.</b><br>Clicking 'Cancel' will close the SUI.",
+            "installer-yes-button": "Install",
+            "installer-no-button": "Cancel",
+
+            "cancel-text": "Are you sure you want to cancel the download?",
+            "cancel-mandatory-text": "This update must be installed to run the SUI. Canceling now will close the application",
+            "cancel-yes": "Cancel Download",
+            "cancel-no": "Continue"
+        },
+
         "windows64": {
-            "latest-version": "2020.11.19",
+            "latest-version": "2023.06.15",
+            "mandatory-list": [],
+            "mandatory-update-to": [],
             "mandatory": false,
             "open-url": "",
             "download-fileName": "Squidstat User Interface.exe",
-            "download-url": "https://dl.dropboxusercontent.com/s/n79j2frn5dja7y8/SUI%20v2.11.19.2020%20Windows.exe?dl=0"
+            "download-url": "https://dl.dropboxusercontent.com/s/n7jfbc1nenx5r9c/Squidstat User Interface v2.06.15.2023.exe?dl=0"
         },
         "windows32": {
-            "latest-version": "2020.06.05",
+            "latest-version": "2023.06.15",
+            "mandatory-list": [],
+            "mandatory-update-to": [],
             "mandatory": false,
             "open-url": "",
             "download-fileName": "Squidstat User Interface x86.exe",
-            "download-url": "https://dl.dropboxusercontent.com/s/hhtog80fovq2vbe/Squidstat%20User%20Interface%2011_26_2019.exe?dl=0"
+            "download-url": "https://dl.dropboxusercontent.com/s/3d6noc9wxntuci8/Squidstat User Interface v2.06.15.2023(32bit).exe"
         },
         "osx": {
-            "latest-version": "2020.11.19",
+            "latest-version": "2023.06.15",
+            "mandatory-list": [],
+            "mandatory-update-to": [],
             "mandatory": false,
             "open-url": "",
             "download-fileName": "Squidstat User Interface.dmg",
-            "download-url": "https://dl.dropboxusercontent.com/s/ckxlh5mo73he0r5/SUI%20v2.11.19.2020%20macOS.dmg?dl=0"
+            "download-url": "https://dl.dropboxusercontent.com/s/d3vv8wlz7qouzx0/Squidstat User Interface v2.06.15.2023.dmg?dl=0"
         },
         "linux": {
-            "latest-version": "2020.11.19",
+            "latest-version": "2023.06.15",
+            "mandatory-list": [],
+            "mandatory-update-to": [],
             "mandatory": false,
             "open-url": "",
-            "download-fileName": "Squidstat User Interface.run",
-            "download-url": "https://dl.dropboxusercontent.com/s/vvn5np5aqiyy2zz/SUI%20v2.11.19.2020%20Linux.run?dl=0"
+            "download-fileName": "Squidstat User Interface.tar.gz",
+            "download-url": "https://dl.dropboxusercontent.com/s/v3hsfy42a0o9grs/Squidstat User Interface v2.06.15.2023.tar.gz?dl=0"
         }
     }
 }

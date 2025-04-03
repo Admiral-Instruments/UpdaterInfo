@@ -3,7 +3,7 @@
     "updates": {
         "window-title": "Squidstat User Interface Updater",
         "website": "https://www.admiralinstruments.com/software",
-        "title": "<center><h3>Software Update Available<br>Squidstat User Interface v2.11.26.2024</h3></center>",
+        "title": "<center><h3>Software Update Available<br>Squidstat User Interface v2.03.24.2025</h3></center>",
         "update-prompt": "A new version of the Squidstat User Interface is available.",
         "changelog-title": "<b>Notable changes since previous release</b>",
         "changelog": "This version includes multiple new features and several bug fixes. A complete list of changes is available to review in the Release Notes section of the More Options menu within the new software.<br><br><b>IMPORTANT: This software update only supports Squidstats with serial numbers above 1100. Do not download this update if you are using any Squidstats with serial numbers below 1100. Instead, please visit our website to access a software version that is compatible for serial numbers below 1100.</b>",
@@ -32,13 +32,13 @@
         },
 
         "windows64": {
-            "latest-version": "2024.11.26",
+            "latest-version": "2025.03.24",
             "mandatory-list": [],
             "mandatory-update-to": [],
             "mandatory": false,
             "open-url": "",
             "download-fileName": "Squidstat User Interface.exe",
-            "download-url": "https://www.dropbox.com/scl/fi/odc4s42xhmvg78agsh904/Squidstat-User-Interface-v2.11.26.2024.exe?rlkey=xgi0pidptpz1b1ewxd9nhb3qm&st=tdv532we&dl=1"
+            "download-url": "https://www.dropbox.com/scl/fi/ub8fo8icdib38w7w4d1yi/Squidstat-User-Interface-v2.03.24.2025.exe?rlkey=ml21b3ml74h6hs22lm6ocqyfc&st=lnsvrtmx&dl=1"
         },
         "windows32": {
             "latest-version": "2023.06.15",
@@ -50,22 +50,22 @@
             "download-url": "https://dl.dropboxusercontent.com/s/3d6noc9wxntuci8/Squidstat User Interface v2.06.15.2023(32bit).exe"
         },
         "osx": {
-            "latest-version": "2024.11.26",
+            "latest-version": "2025.03.24",
             "mandatory-list": [],
             "mandatory-update-to": [],
             "mandatory": false,
             "open-url": "",
             "download-fileName": "Squidstat User Interface.dmg",
-            "download-url":"https://www.dropbox.com/scl/fi/aevp2i0xay3ptf8z8p54h/Squidstat-User-Interface-v2.11.26.2024.dmg?rlkey=s3ykwl2f29q68z6i6u6k972dr&st=kgv87u67&dl=1"
+            "download-url":"https://www.dropbox.com/scl/fi/ivpmng7j7ypwxr1ccdk23/Squidstat-User-Interface-v2.03.24.2025.dmg?rlkey=dhqps0dysyidenr7jymg7b72y&st=6vwd0r13&dl=1"
         },
         "linux": {
-            "latest-version": "2024.11.26",
+            "latest-version": "2025.03.24",
             "mandatory-list": [],
             "mandatory-update-to": [],
             "mandatory": false,
             "open-url": "",
             "download-fileName": "Squidstat User Interface.tar.gz",
-            "download-url": "https://www.dropbox.com/scl/fi/fmuperxej7dnrfme0j2gg/Squidstat-User-Interface-v2.11.26.2024.tar.gz?rlkey=ewe64pva0jdvzjthzjsa5qbuw&st=pvshm6v5&dl=1"
+            "download-url": "https://www.dropbox.com/scl/fi/u923yc6iw65jvxepndv9w/Squidstat-User-Interface-v2.03.24.2025.tar.gz?rlkey=2kcjz4u688eu8ypdgvo00ilut&st=vpoiss8k&dl=1"
         }
     }
 }

@@ -3,7 +3,7 @@
     "updates": {
         "window-title": "Squidstat User Interface Updater",
         "website": "https://www.admiralinstruments.com/software",
-        "title": "<center><h3>Software Update Available<br>Squidstat User Interface v2.03.24.2025</h3></center>",
+        "title": "<center><h3>Software Update Available<br>Squidstat User Interface v2025.08.13</h3></center>",
         "update-prompt": "A new version of the Squidstat User Interface is available.",
         "changelog-title": "<b>Notable changes since previous release</b>",
         "changelog": "This version includes multiple new features and several bug fixes. A complete list of changes is available to review in the Release Notes section of the More Options menu within the new software.<br><br><b>IMPORTANT: This software update only supports Squidstats with serial numbers above 1100. Do not download this update if you are using any Squidstats with serial numbers below 1100. Instead, please visit our website to access a software version that is compatible for serial numbers below 1100.</b>",
@@ -32,7 +32,7 @@
         },
 
         "windows64": {
-            "latest-version": "2025.03.24",
+            "latest-version": "2025.08.13",
             "mandatory-list": [],
             "mandatory-update-to": [],
             "mandatory": false,
@@ -50,7 +50,7 @@
             "download-url": "https://www.dropbox.com/scl/fi/xxb4hq8t3rlb4m1bxiuah/Squidstat-User-Interface-v2.06.15.2023-32bit.exe?rlkey=my96f20figq5qoj5ntvg9i94i&dl=1"
         },
         "osx": {
-            "latest-version": "2025.03.24",
+            "latest-version": "2025.08.13",
             "mandatory-list": [],
             "mandatory-update-to": [],
             "mandatory": false,
@@ -59,13 +59,13 @@
             "download-url":"https://www.dropbox.com/scl/fi/2pt42p20zt05dxy7ds5qx/Squidstat-User-Interface-macOS.dmg?rlkey=zydcuz9bbv6u7icxfhrr8qjvy&dl=1"
         },
         "linux": {
-            "latest-version": "2025.03.24",
+            "latest-version": "2025.08.13",
             "mandatory-list": [],
             "mandatory-update-to": [],
             "mandatory": false,
             "open-url": "",
             "download-fileName": "Squidstat User Interface.tar.gz",
-            "download-url": "https://www.dropbox.com/scl/fi/m77krhcn4f0dt1kfm9z4k/Squidstat-User-Interface-Linux.tar.gz?rlkey=ygf6gka9feo93h2ytw8ra496r&dl=1"
+            "download-url": "https://www.dropbox.com/scl/fi/xp968kyljv4qmayicc073/Squidstat-User-Interface-Linux.tar.gz?rlkey=zsbd0fg024h6rx2gogwxwvuqv&st=mm7fjmew&dl=1"
         }
     }
 }
